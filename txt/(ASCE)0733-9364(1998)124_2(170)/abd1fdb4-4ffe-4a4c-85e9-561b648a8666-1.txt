@@ -1,0 +1,159 @@
+pi State Univ Lib on 07/03/19. Copyright ASCE. For personal use only; all rights reserved.
+
+ 
+
+s
+g
+g
+&
+3
+®
+3
+3
+g
+S
+2
+6
+a
+
+CoSsTS OF ACCIDENTS AND INJURIES TO
+THE CONSTRUCTION INDUSTRY*
+
+Discussion by Greg Howell,’ Member, ASCE
+
+The authors have done a great service by bringing some
+consistency of method to the problem of understanding the
+costs of accidents. Their discussion of the indirect costs is a
+valuable addition, but some confusion remains. They define
+direct costs ‘“‘as those actual contractor cash flows that can be
+directly attributable to injuries and fatalities,’’ but only include
+insurance costs in this category. They define ‘‘indirect costs’’
+as those which are less tangible. This list includes costs which
+can be measured, such as the cost of administration, replace-
+ment training, repair and cleanup, etc. It would be clearer to
+simply use “‘insured’’ and ‘uninsured’ as accepted by the
+American Safety Council in 1959 (Accident Facts 1982).
+
+As valuable as the paper is, in the conclusion, the authors
+overstep their own data and, with no support, disparage the
+motivations of contractors. Of course, the human and financial
+costs of accidents are appalling. There are far too many ac-
+cidents, and the cost of treatment is rapidly increasing. But
+the author’s conclusion that “‘many contractors appear to be
+immune to the moral, ethical, and social consequences of oc-
+cupational injuries and fatalities’ is not supported by the ev-
+idence in the article. Instead, this statement appears to be con-
+tradicted by their earlier observation that ‘injury and fatality
+rates have declined in the past few years,’’ and by their call
+for joint action on the problem
+
+Just as it was a mistake to blame productivity problems on
+worker motivation, it is both too simple and a mistake to
+blame contractor motivation for the industry’s inability to
+solve a complex problem. Placing blame reduces both the
+pressure to probe for deeper knowledge, and the acceptance
+of our own responsibilities.
+
+APPENDIX. REFERENCE
+Accident Facts. (1982). National Safety Council, Chicago, Ill.
+
+Closure by John G. Everett,‘ Member, ASCE
+
+The writers wish to thank the discusser for his interest and
+comments regarding the paper. The paper separates the costs
+of accidents and injuries into two categories: direct and indi-
+rect costs. The writers have taken a slightly different approach
+than the “‘insured’’ versus ‘‘uninsured’’ costs that have been
+used in other studies and which were suggested by the dis-
+cusser. There may be some confusion, because “insured’’
+costs are often equated to the cost of insurance.
+
+For workers’ compensation insurance, there is a big differ-
+ence between the cost of insurance (the amount the contractor
+pays to the insurance carrier) and the cost of injuries (the
+amount the insurance carrier pays to or on behalf of injured
+employees for medical bills, rehabilitation, lost wages, etc.).
+The difference is the insurance carrier’s overhead and profit.
+This “insurance split’’ was assumed in both the original Busi-
+
+ 
+
+“June 1996, Vol. 122, No., 2, by John G. Everett and Peter B. Frank
+Jr. (Paper 10616).
+
+*Assoc. Prof., Dept. of Civ. Engrg., Univ. of New Mexico, Albuquer-
+que, NM 87131-1351.
+
+*Asst. Prof., Dept. of Civ. and Envir. Engrg., Univ. of Michigan, 2352
+G. G. Brown Lab., Ann Arbor, MI 48109-2125.
+
+ness Roundtable study and the paper to be 65% for claims
+benefits and 35% for the insurance carrier’s overhead and
+profit. The Business Roundtable study (“‘Improving’’ 1982)
+includes the overhead and profit in the indirect cost multiplier.
+The paper explicitly counts the overhead and profit as an in-
+direct cost. A self-insured contractor would only pay the
+claims benefits, and there would be no insurance carrier’s
+overhead and profit. This is recognized in both the Business
+Roundtable study and the paper, and therefore, only the claims
+benefits are counted as direct costs.
+
+The other type of insurance included in both the Business
+Roundtable study and the paper is public or third-party liability
+insurance that applies to injuries to anyone other than the con-
+tractor’s employees. The Business Roundtable study included
+the full amount of liability insurance in direct costs. The paper
+separates third-party claims into an insured component and an
+uninsured component, but both are counted as indirect costs.
+
+The reason for counting all of the third-party claims as in-
+direct costs is that the amount of benefits paid for medical
+bills, rehabilitation, and lost wages is often only a small frac-
+tion of the total amount of the claim. Third-party claims can
+include payments for pain and suffering, negligence, punitive
+damages, and other issues that go well beyond the medical
+bills, rehabilitation, and lost wages covered by workers’ com-
+pensation insurance. In construction, the injured third-party is
+likely to be an employee of a different contractor or subcon-
+tractor working on the same project; therefore the medical
+bills, rehabilitation, and lost wages will be covered by the
+injured third-party’s own workers’ compensation insurance,
+and have thus already been counted as a direct cost.
+
+The paper counts only medical bills, rehabilitation, and lost
+wages as direct costs, and counts everything else as indirect
+costs. In any case, the differences between the Business
+Roundtable study, the paper, and the suggested ‘‘insured’’ ver-
+sus “uninsured’’ breakdown are only accounting differences,
+and the total costs remain the same.
+
+The writers stand by their statement that ‘“‘many contractors
+appear to be immune to the moral, ethical, and social conse-
+quences of occupational injuries and fatalities.’ The discusser
+correctly notes that this statement is not supported by evidence
+in the article, but it is well supported by even the most cursory
+review of injury and fatality statistics. Every week, it seems,
+trade publications carry news about unnecessary injuries and
+fatalities and contractors who have been cited by OSHA for
+willful and repeated violations.
+
+Occupational health and safety is indeed a complex problem
+in construction, but numerous studies have shown that con-
+tractors who take safety seriously can dramatically reduce in-
+jury and fatality incidence rates. Yet the bloodbath continues,
+because there are other contractors who do not take safety
+seriously. The writers do not wish to assign blame or question
+the motivations of contractors, but, as the last sentence of the
+paper suggests, do hope to provide some economic incentive
+to improve safety in cases where moral, ethical, and social
+considerations by themselves are not working.
+
+APPENDIX. REFERENCE
+
+“Improving Construction Safety Performance.”’ (1982). Constr. Ind. Cost
+Effectiveness (CICE) Project, Rep. A-3, Business Roundtable, New
+York, N.Y.
+
+170 / JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT / MARCH/APRIL 1998
+
+J. Constr. Eng. Manage., 1998, 124(2): 170-170

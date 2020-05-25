@@ -3,6 +3,7 @@ from pdf2image import convert_from_path, convert_from_bytes
 import cv2
 import pytesseract as pt
 import os
+import shutil
 
 IMG_FOLDER = "img/"
 TXT_FOLDER = "txt/"
@@ -45,6 +46,7 @@ class PDF_TO_TEXT:
             exit(new_img_folder)
         img = convert_from_path(path,output_folder=new_img_folder)
         self.img_to_text(new_img_folder , new_txt_folder)
+        shutil.rmtree(new_img_folder)
         print("Conversion successful for " , path)
         
     def convert(self):
