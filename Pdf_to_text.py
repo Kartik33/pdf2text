@@ -37,17 +37,27 @@ class PDF_TO_TEXT:
             new_name_without_ext = name_without_ext+str(version)
             new_img_folder = os.path.join(IMG_FOLDER, new_name_without_ext)
             new_txt_folder = os.path.join(TXT_FOLDER, new_name_without_ext)
-            #print(new_img_folder)
+            
             version += 1
         try:
             os.makedirs(new_img_folder)
+        except PermissionError:
+            exit(new_img_folder)
+        except FileExistsError as fe:
+            shutil.rmtree(new_img_folder)
+            os.makedirs(new_img_folder)
+            
+        try:
             os.makedirs(new_txt_folder)
         except PermissionError:
             exit(new_img_folder)
+        except FileExistsError as fe:
+            shutil.rmtree(new_txt_folder)
+            os.makedirs(new_txt_folder)
         img = convert_from_path(path,output_folder=new_img_folder)
         self.img_to_text(new_img_folder , new_txt_folder)
         shutil.rmtree(new_img_folder)
-        print("Conversion successful for " , path)
+        print("Conversion successful for " , path, new_img_folder)
         
     def convert(self):
         if self.option == "file":
