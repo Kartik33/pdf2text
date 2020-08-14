@@ -7,7 +7,7 @@ You must have the following dependencies installed.
   
 There are three options to run the program
 
-1 Put the pdf files in the /pdf folder and run the program using the below command
+1 Put the pdf files in the /pdf folder and run the program using the command
       `python run.py`
 
 2 You can also give path of the single pdf file 
