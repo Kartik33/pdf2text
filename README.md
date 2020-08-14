@@ -7,13 +7,13 @@ You must have the following dependencies installed.
   
 There are three options to run the program
 
-    Put the pdf files in the /pdf folder and run the program using the below command
+1 Put the pdf files in the /pdf folder and run the program using the below command
       `python run.py`
 
-    You can also give path of the single pdf file 
+2 You can also give path of the single pdf file 
       `python run.py -f pathToFile.pdf`
 
-    or directory of pdf files
+3 Or path to the directory of pdf files
       `python run.py -d pathToDirectory`
 
-The text files will be generated in the /txt folder 
+**The text files will be generated in the /txt folder** 
