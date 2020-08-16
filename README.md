@@ -5,7 +5,7 @@ Install dependencies
 pip install pdf2image cv2 pytesseract
 ```
   
-There are four options to run the program
+Run main program
 
 1 Put the pdf files in the /pdf folder and run the program using the command<br>
 ```python
