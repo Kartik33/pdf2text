@@ -6,7 +6,7 @@ pip install pdf2image cv2 pytesseract
 ```
   
 Run Instructions <br>
-* Output is in the **txt** folder.
+* Text files are generated in the **txt** folder.
 * Default, all pdf files in **pdf** folder would be processed <br>
 ```python
 python run.py
@@ -23,12 +23,10 @@ python run.py -d <pathToDirectory>
 ```python
 -l Remove the footer from research paper pdf
 ```
-Sample<br>
-<p> It will remove the footer's content as shown below and then convert into text file <p>
-
+Sample <br>
+Input File <br>
 <p float="left">
   <img src="https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-35-47.png" width="300" />
-  <img src=https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-36-07.png width="300" /> 
+Output File
+<p><img src=https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-36-07.png width="300" /> 
 </p>
-
-**The text files will be generated in the /txt folder** 
