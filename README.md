@@ -1,9 +1,9 @@
-# A Package for converting pdf files to text files.
+# Convert PDF to text
 
-You must have the following dependencies installed.
- - pdf2image
- - cv2
- - pytesseract
+Install dependencies
+```python
+pip install pdf2image cv2 pytesseract
+```
   
 There are four options to run the program
 
