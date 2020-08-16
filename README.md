@@ -26,7 +26,8 @@ python run.py -d <pathToDirectory>
 Sample <br>
 <html>
   <body>
-    <div><label style='margin-right:20px;'> Input File </label> <label style="margin-left:20px;">Internal Processing </label><label> Output File </label> </div>
+    <div 'margin-right:20px;'> Input File </div> 
+    <div> <label style="margin-left:20px;">Internal Processing </label><label> Output File </label> </div>
     <div>
       <img src="https://github.com/Kartik33/pdf2text/blob/new/sample/Screenshot%20from%202020-08-15%2017-35-47.png" width="300" />
       <img src=https://github.com/Kartik33/pdf2text/blob/new/sample/binary.png width="200" height="200" />
