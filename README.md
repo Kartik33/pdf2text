@@ -6,17 +6,18 @@ pip install pdf2image cv2 pytesseract
 ```
   
 Run Instructions <br>
-* Input is **pdf** folder and output is in the **txt** folder.
-
-1 Put the pdf files in the /pdf folder and run the program using the command<br>
+* Output is in the **txt** folder.
+  * Single File Processing
+* ```python
+python run.py -f pathToFile.pdf
+```
+  
+* Put the pdf files in the /pdf folder and run the program using the command<br>
 ```python
 python run.py
 ```
 
 2 You can also give path of the single pdf file<br>
-```python
-python run.py -f pathToFile.pdf
-```
 
 3 Or path to the directory of pdf files<br>
 ```python
