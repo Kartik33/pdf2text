@@ -7,21 +7,17 @@ pip install pdf2image cv2 pytesseract
   
 Run Instructions <br>
 * Output is in the **txt** folder.
-* Single File Processing
-```python
-python run.py -f pathToFile.pdf
-```
-  
-* Put the pdf files in the /pdf folder and run the program using the command<br>
+* Default, all pdf files in **pdf** folder would be processed <br>
 ```python
 python run.py
 ```
-
-2 You can also give path of the single pdf file<br>
-
-3 Or path to the directory of pdf files<br>
+* Single File Processing
 ```python
-python run.py -d pathToDirectory
+python run.py -f <pathToFile.pdf>
+```
+* Directory Processing <br>
+```python
+python run.py -d <pathToDirectory>
 ```
 
 4 If you are converting documents like research papers and want to remove the footer
