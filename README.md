@@ -19,12 +19,11 @@ python run.py -f <pathToFile.pdf>
 ```python
 python run.py -d <pathToDirectory>
 ```
-
-4 If you are converting documents like research papers and want to remove the footer
-  then you can use the -l option
+* Options
 ```python
-python run.py -l
+-l Remove the footer from research paper pdf
 ```
+Sample<br>
 <p> It will remove the footer's content as shown below and then convert into text file <p>
 
 <p float="left">
