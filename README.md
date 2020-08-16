@@ -28,6 +28,8 @@ Sample <br>
     </div>
     <div>
       <img src="https://github.com/Kartik33/pdf2text/blob/new/sample/Screenshot%20from%202020-08-15%2017-35-47.png" width="300" />
+  -->
       <img src=https://github.com/Kartik33/pdf2text/blob/new/sample/binary.png width="200" height="200" />
+  -->
       <img src=https://github.com/Kartik33/pdf2text/blob/new/sample/Screenshot%20from%202020-08-15%2017-36-07.png width="300" /> 
     </div>
