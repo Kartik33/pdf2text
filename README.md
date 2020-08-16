@@ -7,8 +7,8 @@ pip install pdf2image cv2 pytesseract
   
 Run Instructions <br>
 * Output is in the **txt** folder.
-  * Single File Processing
-* ```python
+* Single File Processing
+```python
 python run.py -f pathToFile.pdf
 ```
   
