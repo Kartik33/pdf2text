@@ -2,7 +2,7 @@
 
 Install dependencies
 ```python
-pip install pdf2image cv2 pytesseract
+pip install pdf2image opencv-python==4.0.0.21 pytesseract
 ```
   
 Run Instructions <br>
