@@ -24,7 +24,7 @@ python run.py -d <pathToDirectory>
 -l Remove the footer from research paper pdf
 ```
 Sample <br>
-Input File <br>
+**Input File** -> **Internal Processing** -> **Output File** <br>
 <p float="left">
   <img src="https://github.com/Kartik33/pdf2text/blob/new/sample/Screenshot%20from%202020-08-15%2017-35-47.png" width="300" />
   <img src=https://github.com/Kartik33/pdf2text/blob/new/sample/binary.png width="300" />
