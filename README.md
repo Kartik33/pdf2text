@@ -22,8 +22,8 @@ There are four options to run the program
        It will remove the footer's content as shown below and then convert into text file
 
 <p float="left">
-  <img src="https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-35-47.png" width="100" />
-  <img src=https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-36-07.png width="100" /> 
+  <img src="https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-35-47.png" width="300" />
+  <img src=https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-36-07.png width="300" /> 
 </p>
 
 **The text files will be generated in the /txt folder** 
