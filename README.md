@@ -27,6 +27,6 @@ Sample <br>
 Input File <br>
 <p float="left">
   <img src="https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-35-47.png" width="300" />
-Output File
+Output File <br>
 <p><img src=https://github.com/Kartik33/pdf2text/blob/master/sample/Screenshot%20from%202020-08-15%2017-36-07.png width="300" /> 
 </p>
