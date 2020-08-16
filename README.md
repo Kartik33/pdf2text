@@ -7,13 +7,13 @@ You must have the following dependencies installed.
   
 There are four options to run the program
 
-1 Put the pdf files in the /pdf folder and run the program using the command
+1 Put the pdf files in the /pdf folder and run the program using the command<br>
       `python run.py`
 
-2 You can also give path of the single pdf file 
+2 You can also give path of the single pdf file<br>
       `python run.py -f pathToFile.pdf`
 
-3 Or path to the directory of pdf files
+3 Or path to the directory of pdf files<br>
       `python run.py -d pathToDirectory`
 
 4 If you are converting documents like research papers and want to remove the footer
